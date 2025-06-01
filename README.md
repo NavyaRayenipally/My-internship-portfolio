@@ -14,7 +14,7 @@ This portfolio highlights my journey as a frontend developer intern, featuring:
 
 - Responsive Design — works seamlessly across devices.
 - Interactive Navigation — smooth scrolling between sections.
-- Projects Showcas* — includes images, descriptions, and tech stacks.
+- Projects Showcase — includes images, descriptions, and tech stacks.
 - Contact Form — lets users send a message (currently shows an alert as a placeholder).
 
 ##  Tech Stack
